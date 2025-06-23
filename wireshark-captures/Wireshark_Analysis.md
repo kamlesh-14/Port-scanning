@@ -68,6 +68,7 @@ This document summarizes the key findings from the Wireshark capture during the 
   - `tcp.flags.syn == 1 and tcp.flags.ack == 0`
 
 ---
+ 
+ **Screenshot**: `wireshark_screenshot.png`
 
-📝 **File Captured**: `wireshark_eth0MPPF82.pcapng`  
-🖼️ **Screenshot**: `wireshark_screenshot.png`
+
