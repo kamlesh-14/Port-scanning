@@ -12,7 +12,6 @@ This project scans a vulnerable Metasploitable 2 VM using Nmap, analyzes traffic
 - `scan-results/`: Raw Nmap outputs + screenshots
 - `analysis/`: Breakdown of ports/services and risks
 - `wireshark-captures/`: Screenshots and PCAP file
-- `report/`: Final compiled summary (PDF)
 
 ## Key Learning Outcomes
 - Performed TCP SYN and aggressive scans
