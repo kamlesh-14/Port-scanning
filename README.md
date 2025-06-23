@@ -1,6 +1,6 @@
 # Network Port Scan & Analysis (Nmap + Wireshark)
 
-This project scans a vulnerable Metasploitable2 VM using Nmap, analyzes traffic with Wireshark, and identifies security risks from open ports.
+This project scans a vulnerable Metasploitable 2 VM using Nmap, analyzes traffic with Wireshark, and identifies security risks from open ports.
 
 ## Tools Used
 - Kali Linux (attacker)
