@@ -1,4 +1,4 @@
-# 🛠 Open Ports Summary
+#  Open Ports Summary
 
 This table lists the open ports detected on the target IP `192.168.1.5` using a TCP SYN scan (`nmap -sS`).
 
